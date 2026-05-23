@@ -6,7 +6,8 @@ We are excited to share this project with the global open-source community! Whet
 
 ---
 
-# CSePS: Cryptographically Secure Government e-Procurement System
+# 🏛️ Project Overview
+## CSePS: Cryptographically Secure Government e-Procurement System
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
