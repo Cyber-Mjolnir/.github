@@ -1,4 +1,10 @@
-## Hi there 👋
+## ⚡ Welcome to Cyber-Mjolnir
+
+Cyber-Mjolnir is a collaborative initiative focused on building high-integrity, privacy-preserving, and cryptographically resilient software frameworks. Our core focus centers on exploring zero-trust ecosystems, advanced decentralized models, and robust implementations of modern cryptographic primitives. 
+
+We are excited to share this project with the global open-source community! Whether you are a security researcher, a cryptography enthusiast, or a software engineer, **we openly welcome your insights, feedback, and contributions.** Feel free to explore the codebase, open issues, fork the repository, and submit pull requests as we continue to benchmark, iterate, and enhance this security framework.
+
+---
 
 # CSePS: Cryptographically Secure Government e-Procurement System
 
